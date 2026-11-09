@@ -2,19 +2,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-rehman-sudais-84001a321/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=640&lines=Full-Stack+Software+Engineer;Web+%E2%80%A2+iOS+%E2%80%A2+Android+%E2%80%A2+Backend+%E2%80%A2+SQL;I+turn+ideas+into+products+that+ship" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=640&lines=Full-Stack+Software+Engineer;Web+%E2%80%A2+iOS+%E2%80%A2+Android+%E2%80%A2+Backend+%E2%80%A2+SQL;AI+Automation+%26+AI+Agents;I+turn+ideas+into+products+that+ship" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
-  I design, build and launch <b>websites, mobile apps and backend systems</b> for startups and businesses in the USA,<br/>
+  I design, build and launch <b>websites, mobile apps, AI automations and backend systems</b> for startups and businesses,<br/>
   from the first wireframe to the App Store, and everything in between.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-rehman-sudais-84001a321/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Contract-3FB950?style=for-the-badge" alt="Open to work" />
-  <img src="https://img.shields.io/badge/Timezone-Overlaps%20US%20hours-6E40C9?style=for-the-badge" alt="US hours" />
+  <img src="https://img.shields.io/badge/Work-Remote%20%C2%B7%20Worldwide-6E40C9?style=for-the-badge" alt="Remote worldwide" />
 </p>
 
 ---
@@ -28,13 +28,14 @@
 | 🧠 | **Web Apps & SaaS** | Dashboards, admin panels, booking systems, e-commerce, subscriptions, role-based access. |
 | ⚙️ | **Backend & APIs** | REST & GraphQL APIs, authentication, payments (Stripe), third-party integrations, webhooks. |
 | 🗄️ | **Databases & SQL** | Schema design, complex queries, stored procedures, performance tuning, migrations on PostgreSQL, MySQL, Oracle and SQL Server. |
-| 🤖 | **Automation** | Python scripts, scrapers and workflows that remove hours of manual work every week. |
+| 🤖 | **AI Automation & AI Agents** | n8n workflows and AI agents that run your business on autopilot: lead capture, CRM updates, email and WhatsApp bots, GPT / Claude integrations, RAG on your own documents. Also Make and Zapier. |
+| ⚡ | **Automation & Scripts** | Python scripts, scrapers and integrations that remove hours of manual work every week. |
 
 ## 💡 Why clients work with me
 
-- **One developer, full product**: design, frontend, backend, database, mobile and deployment. No hand-offs, no gaps.
+- **One developer, full product**: design, frontend, backend, database, mobile, AI and deployment. No hand-offs, no gaps.
 - **Clean, maintainable code**: structured so your next developer can pick it up on day one.
-- **Clear communication**: regular progress updates, working in US business hours.
+- **Clear communication**: regular progress updates and quick replies, across time zones.
 - **Built to scale**: the right architecture from the start, so you don't rebuild in six months.
 - **Launch support**: domain, hosting, App Store / Play Store submission, and fixes after go-live.
 
@@ -76,6 +77,15 @@
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
 
+**AI & Automation**<br/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" alt="Make" />
+<img src="https://img.shields.io/badge/Zapier-FF4F00?style=flat-square&logo=zapier&logoColor=white" alt="Zapier" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+
 **Cloud & DevOps**<br/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
@@ -98,22 +108,16 @@
 5. Support     →  Bug fixes, updates and new features after go-live.
 ```
 
-## 📂 Featured work
+## 🏢 Where I work
 
-| Project | Type | Link |
-|---|---|---|
-| **NY Book Services** | Publishing services platform for authors | [nybookservices.com](https://nybookservices.com) |
-| **NY Web Creators** | Web development agency website | [nywebcreators.com](https://nywebcreators.com) |
+I'm a full-stack developer at **Raiyyan Digital Ventures**. Visit our office website:
 
-<!-- Add more rows as you push projects to GitHub. Example:
-| **Project name** | Web app / iOS app | [Live](https://...) · [Code](https://github.com/abdulrehman-bhutto/...) |
--->
+👉 **[raiyyandigitalventures.com](https://raiyyandigitalventures.com/)**
 
 ## 🌱 Right now
 
-- 🔨 Building custom websites, mobile apps and admin dashboards for US clients
+- 🔨 Building custom websites, mobile apps, admin dashboards and AI automations
 - 📚 Going deeper into Oracle SQL & PL/SQL
-- 🏢 Working at **Raiyyan Digital Ventures**
 
 ---
 
