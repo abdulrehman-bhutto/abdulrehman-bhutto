@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abdul-Rehman Bhutto 👋</h1>
+<h1 align="center">Hi, I'm Abdul-Rehman Bhutto </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-rehman-sudais-84001a321/">
