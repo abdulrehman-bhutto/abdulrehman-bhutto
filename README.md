@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abdul-Rehman Bhutto 👋</h1>
+<h1 align="center">Hi, I'm Abdul-Rehman Bhutto </h1>
 
 <p align="center">
   <b>Full-Stack Developer</b> · I build fast, fully custom-coded websites and web apps for businesses in the USA
