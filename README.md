@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Abdul-Rehman Bhutto </h1>
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Abdul Rehman Bhutto, Full-Stack Software Engineer" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-rehman-sudais-84001a321/">
@@ -15,6 +17,7 @@
   <a href="https://www.linkedin.com/in/abdul-rehman-sudais-84001a321/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20talk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Contract-3FB950?style=for-the-badge" alt="Open to work" />
   <img src="https://img.shields.io/badge/Work-Remote%20%C2%B7%20Worldwide-6E40C9?style=for-the-badge" alt="Remote worldwide" />
+  <img src="https://komarev.com/ghpvc/?username=abdulrehman-bhutto&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
@@ -107,6 +110,29 @@
 4. Launch      →  Deploy to web, App Store and Google Play. Domain, hosting, analytics.
 5. Support     →  Bug fixes, updates and new features after go-live.
 ```
+
+<!-- ============ FEATURED PROJECTS (uncomment when you push your first projects) ============
+## 📂 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/abdulrehman-bhutto/PROJECT-REPO/main/screenshot.png" alt="Project 1 screenshot" />
+      <h3>Project name</h3>
+      <p>One line on what it does and who it is for.</p>
+      <p><b>Stack:</b> Next.js · Supabase · Tailwind</p>
+      <a href="https://LIVE-LINK">🌐 Live</a> · <a href="https://github.com/abdulrehman-bhutto/PROJECT-REPO">💻 Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/abdulrehman-bhutto/PROJECT-REPO-2/main/screenshot.png" alt="Project 2 screenshot" />
+      <h3>Project name</h3>
+      <p>One line on what it does and who it is for.</p>
+      <p><b>Stack:</b> Swift · SwiftUI · Firebase</p>
+      <a href="https://APP-STORE-LINK">📱 App Store</a> · <a href="https://github.com/abdulrehman-bhutto/PROJECT-REPO-2">💻 Code</a>
+    </td>
+  </tr>
+</table>
+============================================================================================= -->
 
 ## 🏢 Where I work
 
