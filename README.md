@@ -22,19 +22,19 @@
 
 ---
 
-## 🚀 What I build
+##  What I build
 
 | | Service | What you get |
 |---|---|---|
-| 🌐 | **Custom Websites** | Hand-coded in React / Next.js, no templates, no page builders. Fast, SEO-ready, mobile-first. |
-| 📱 | **Mobile Apps (iOS & Android)** | Native iOS apps in Swift / SwiftUI and cross-platform apps in React Native & Flutter, ready for the App Store and Google Play. |
-| 🧠 | **Web Apps & SaaS** | Dashboards, admin panels, booking systems, e-commerce, subscriptions, role-based access. |
-| ⚙️ | **Backend & APIs** | REST & GraphQL APIs, authentication, payments (Stripe), third-party integrations, webhooks. |
-| 🗄️ | **Databases & SQL** | Schema design, complex queries, stored procedures, performance tuning, migrations on PostgreSQL, MySQL, Oracle and SQL Server. |
-| 🤖 | **AI Automation & AI Agents** | n8n workflows and AI agents that run your business on autopilot: lead capture, CRM updates, email and WhatsApp bots, GPT / Claude integrations, RAG on your own documents. Also Make and Zapier. |
-| ⚡ | **Automation & Scripts** | Python scripts, scrapers and integrations that remove hours of manual work every week. |
+|  | **Custom Websites** | Hand-coded in React / Next.js, no templates, no page builders. Fast, SEO-ready, mobile-first. |
+|  | **Mobile Apps (iOS & Android)** | Native iOS apps in Swift / SwiftUI and cross-platform apps in React Native & Flutter, ready for the App Store and Google Play. |
+|  | **Web Apps & SaaS** | Dashboards, admin panels, booking systems, e-commerce, subscriptions, role-based access. |
+|  | **Backend & APIs** | REST & GraphQL APIs, authentication, payments (Stripe), third-party integrations, webhooks. |
+|  | **Databases & SQL** | Schema design, complex queries, stored procedures, performance tuning, migrations on PostgreSQL, MySQL, Oracle and SQL Server. |
+|  | **AI Automation & AI Agents** | n8n workflows and AI agents that run your business on autopilot: lead capture, CRM updates, email and WhatsApp bots, GPT / Claude integrations, RAG on your own documents. Also Make and Zapier. |
+|  | **Automation & Scripts** | Python scripts, scrapers and integrations that remove hours of manual work every week. |
 
-## 💡 Why clients work with me
+##  Why clients work with me
 
 - **One developer, full product**: design, frontend, backend, database, mobile, AI and deployment. No hand-offs, no gaps.
 - **Clean, maintainable code**: structured so your next developer can pick it up on day one.
@@ -42,7 +42,7 @@
 - **Built to scale**: the right architecture from the start, so you don't rebuild in six months.
 - **Launch support**: domain, hosting, App Store / Play Store submission, and fixes after go-live.
 
-## 🛠️ Tech stack
+##  Tech stack
 
 **Frontend**<br/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -101,7 +101,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
 
-## 🧭 How I work
+##  How I work
 
 ```text
 1. Discovery   →  We talk goals, users and budget. You get a clear scope and timeline.
@@ -112,7 +112,7 @@
 ```
 
 <!-- ============ FEATURED PROJECTS (uncomment when you push your first projects) ============
-## 📂 Featured projects
+##  Featured projects
 
 <table>
   <tr>
@@ -134,16 +134,16 @@
 </table>
 ============================================================================================= -->
 
-## 🏢 Where I work
+##  Where I work
 
 I'm a full-stack developer at **Raiyyan Digital Ventures**. Visit our office website:
 
-👉 **[raiyyandigitalventures.com](https://raiyyandigitalventures.com/)**
+**[raiyyandigitalventures.com](https://raiyyandigitalventures.com/)**
 
-## 🌱 Right now
+##  Right now
 
-- 🔨 Building custom websites, mobile apps, admin dashboards and AI automations
-- 📚 Going deeper into Oracle SQL & PL/SQL
+-  Building custom websites, mobile apps, admin dashboards and AI automations
+-  Going deeper into Oracle SQL & PL/SQL
 
 ---
 
